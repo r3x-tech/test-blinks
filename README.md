@@ -1,6 +1,6 @@
-# Runepunk Storefronts
+# Rexagotchi
 
-For an understanding of how this game works: https://spsblink.runepunk.gg
+For an understanding of how this game works: (insert notion url here)
 
 ### On Chain Program
 program/rpl-sps-blinks
@@ -12,18 +12,12 @@ program/rpl-sps-blinks
 5. Raid - server function to randomly raid storefronts
 6. Revive SPS - admin function to revive a storefront for debug purposes
 
-### Discord Bot
-server/discord.ts
+### Twitter Bot
+server/twitter.ts
 
-Small discord bot that can interact with storefronts
+Small twitter bot that can interact with a Rexagotchi
 
 ### Blink Server
 server/blink.ts
 
 Blink Server written with Hono that has a GET and POST for blinks
-
-
-### Raid Cron Job
-server/raid.ts
-
-Server that randomly attacks corporations
