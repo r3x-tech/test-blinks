@@ -1,16 +1,16 @@
 # Rexagotchi
 
-For an understanding of how this game works: (insert notion url here)
+For an understanding of how this game works: https://www.notion.so/Rexagotchi-4063ae6b11a34aeb9579f39d959a4ccc
 
 ### On Chain Program
-program/rpl-sps-blinks
+program/rexagotchi
 
-1. Incorporate - allows people to create a storefront
-2. Buy Goods - allows people to buy goods for a storefront
-3. Reset Player Timer - admin function to reset goods timer for a player for debugging
-4. Hire Security - allows people to buy security forces for their storefront
-5. Raid - server function to randomly raid storefronts
-6. Revive SPS - admin function to revive a storefront for debug purposes
+1. Hatch - allows you to hatch a Rexagotchi
+2. Feed - allows you to feed your Rexagotchi
+3. Play - allows you to play a game with your Rexagotchi
+4. Cuddle - allows you to warm up your Rexagotchi
+7. Revive SPS - admin function to revive a Rexagotchi for debug purposes
+8. Reset Player Timer - admin function to reset actions timer for a player for debugging
 
 ### Twitter Bot
 server/twitter.ts
